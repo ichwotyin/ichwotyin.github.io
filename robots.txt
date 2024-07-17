@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ichwotyin.github.io/sitemap
+Sitemap: https://ichwotyin.github.io/app/sitemap
+Sitemap: https://ichwotyin.github.io/assets/sitemap
+Sitemap: https://ichwotyin.github.io/css/sitemap
+Sitemap: https://ichwotyin.github.io/includes/sitemap
+Sitemap: https://ichwotyin.github.io/item/sitemap
+Sitemap: https://ichwotyin.github.io/src/sitemap
